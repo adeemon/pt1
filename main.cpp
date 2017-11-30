@@ -18,7 +18,7 @@ public:
 
 int main(int argc, char *argv[])
 {
-    cout << "* Create Object child" << endl;
+    cout << "* Create Object child" <<"v0.1" endl;
     Child child;
 
     return 0;
